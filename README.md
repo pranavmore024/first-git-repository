@@ -1,4 +1,4 @@
 # first-git-repository
 this is my first git repository
 <br>
-author - Pranav More
+author - Pranav more (this is my first update)
